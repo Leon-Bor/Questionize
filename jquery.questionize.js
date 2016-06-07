@@ -9,7 +9,7 @@
             hideAfterAnswear: true
         }, options);
         var that = this;
-        var questions = $(this).children("[data-question]");
+        var questions = $(this).find("[data-question]");
         totalAnswears = questions.length;
         if ($(that).find("[data-end]").length) {
             $(that).find("[data-end]").hide()
