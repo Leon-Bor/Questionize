@@ -74,7 +74,7 @@ Note: Endpoint names has to start with "END".
 ```
 
 ###Init:
-`
+```javascript
 $(document).ready(function() {
     $(".preExMeCo").questionize({
         hideAfterAnswear: true,  // optional
@@ -84,4 +84,4 @@ $(document).ready(function() {
         console.log(answears)
     });
 })
-`
+```
