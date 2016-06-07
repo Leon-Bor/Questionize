@@ -1,4 +1,4 @@
-# JQuery Questionize
+# JQuery Questionize Plugin
 A JQuery plugin for creating a flow of questions with yes/no answears. You get a callback on every answeared question.
 
 ##Demo
