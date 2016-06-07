@@ -11,8 +11,8 @@ A JQuery plugin for creating a flow of questions with yes/no answears. You get a
 Note: Endpoint names has to start with "END".
 
 ###HTML:
-`
 
+`
 <div class="row">
   <div class="col-md-8">
     <div>
