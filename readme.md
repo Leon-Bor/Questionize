@@ -8,7 +8,8 @@ A JQuery plugin for creating a flow of questions with yes/no answears. You get a
 
 ## Get Started
 
-Note: Endpoint names has to start with "END".
+Endpoint names has to start with `END`.
+Back button are hidden if `hideAfterAnswear` is `false`.
 
 ###HTML:
 
