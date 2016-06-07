@@ -64,7 +64,7 @@ Back buttons are hidden if `hideAfterAnswear` is `false`.
 ###Init:
 ```javascript
 $(document).ready(function() {
-    $(".preExMeCo").questionize({
+    $("#questionize").questionize({
         hideAfterAnswear: true,  // optional
         startQuestion: 'Q1' 	 // optional
     }, function(answears) {
