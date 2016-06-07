@@ -12,7 +12,7 @@ Note: Endpoint names has to start with "END".
 
 ###HTML:
 
-`
+```html
 <div class="row">
   <div class="col-md-8">
     <div>
@@ -71,7 +71,7 @@ Note: Endpoint names has to start with "END".
     </div>
   </div>
 </div>
-`
+```
 
 ###Init:
 `
