@@ -3,7 +3,7 @@ A JQuery plugin for creating a flow of questions with yes/no answears. You get a
 
 ##Demo
 
-[jsFiddle](https://jsfiddle.net/amkv64ey/2/)
+[jsFiddle](https://jsfiddle.net/amkv64ey/4/)
 
 
 ## Get Started
